@@ -1,4 +1,4 @@
-let { tap, .. } = import "./fak/keycode.ncl" in
+let { tap, .. } = import "fak/keycode.ncl" in
 
 let kc = tap.reg.kc in
 
